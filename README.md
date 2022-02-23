@@ -1,2 +1,2 @@
 # LojaDeVarejo
-Base para criação de uma loja de vareko
+Base para criação de uma loja de varejo
